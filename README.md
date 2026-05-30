@@ -18,4 +18,4 @@ Bu repo, Türkiye ekonomisine dair farklı veri setlerinin ileri düzey istatist
 Bu analizler, ham ekonomik verilerin işlenerek somut stratejik kararlara dönüştürülmesini ve makro değişkenler arasındaki karmaşık ilişkilerin ampirik olarak modellenmesini amaçlamaktadır.
 
 ---
-*Not: Bu çalışmalar Mayıs 2026 itibarıyla güncel veriler kullanılarak hazırlanmıştır.*
+*Not: Bu çalışmalar yapıldıkları tarih itibarıyla güncel veriler kullanılarak hazırlanmıştır.*
